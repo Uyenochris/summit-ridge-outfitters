@@ -8,6 +8,9 @@ This website was made with HTML, CSS, and JavaScript. It has pages for Home, Sho
 
 The login and sign-up pages save information in the browser for testing. There is no real login system, so only use test information.
 
+https://in-info-web4.luddy.indianapolis.iu.edu/~cjuyeno/Summit-Ridge-Outfitters-Basic/
+
+
 **Test Login:**
 - Email: `trail@example.com`
 - Password: `trail123`
